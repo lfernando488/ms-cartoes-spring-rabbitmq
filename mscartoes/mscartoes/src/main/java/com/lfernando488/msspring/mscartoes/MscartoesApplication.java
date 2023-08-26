@@ -1,10 +1,12 @@
 package com.lfernando488.msspring.mscartoes;
 
+import org.springframework.amqp.rabbit.annotation.EnableRabbit;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 //@EnableEurekaclient
+@EnableRabbit
 public class MscartoesApplication {
 
 	public static void main(String[] args) {
