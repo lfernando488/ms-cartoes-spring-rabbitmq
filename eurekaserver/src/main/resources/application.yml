@@ -5,6 +5,13 @@ spring:
       template-loader-path: classpath:/templates/
       prefer-file-system-access: false
 
+  security:
+    basic:
+      enabled: true
+    user:
+      name: cursoms-eureka-user
+      password: reu5su-rmo1usee-asc9kr
+
 server:
   port: 8761
 
