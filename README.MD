@@ -7,3 +7,7 @@
 -CLOUDGATEWAY
 
 Docker: RabbitMq e Keycloak
+
+Keycloak:
+- Criar Realm
+- Cria usuário
