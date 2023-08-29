@@ -1,8 +1,9 @@
 # SPRING BOOT MICROSERVICOS
 
 -JPA/SQL
--RABBITMQ
 -EUREKA SERVER
 -OPENFEIGN (comunicação sincrona)
 -LOMBOK
 -CLOUDGATEWAY
+
+Docker: RabbitMq e Keycloak
